@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "outDir": "bin/js",
+      "rootDir": "src",
+      "lib": ["dom", "es6"],
+      "module": "commonjs",
+      "sourceMap": true,
+      "declaration": false,
+      "moduleResolution": "node",
+      "experimentalDecorators": false
+    }
+  }
+  
